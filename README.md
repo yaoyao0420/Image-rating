@@ -1,22 +1,25 @@
 # Image-rating
+
+
 ## English
-There are a total of 465 pictures in the image database. Please rate the pictures. 
-*For Chen and Obata, you can start rating from the 1338th picture.*
-Regarding rating, please select the most suitable option from the excel sheet. 
-The first column is Emotion, which contains three options of Positive, neutral and negative; the second column is Basic Emotions, which contains six options of Fear, Disgust, Anger, Sadness, Surprise and Others(Negative), two options of Happy and Others(Positive), and one option of Neutral(Neutral). 
-If there is no suitable option(Others) in the second column, you can choose the closest sentiment from the third column.
-  
-## 日本語：
+There are 465 pictures in the database, please rate each picture.
+Chen and Obata should start rating from the 1338th picture. 
+Regarding the rating, please select the most suitable one from the drop-down list in Excel.
+The first column is "Emotion", which contains three options: "Positive", "Neutral" and "Negative". The second column is "Basic Emotions", if your option in the first column is "Negative", then please choose from the following six options: "Fear", "Disgust", "Anger", "Sadness", "Surprise ", choose from "Others"; if your option in the first column is "Positive", then please choose from the following two options: "Happy", "Others"; if your option in the first column is "Neutral", then please select "Neutral" directly.
+If you do not find the most suitable option in the second column, that is, your option is "Others", please choose the option that is closest to your mood/emotion in the third column.  
+
+## 日本語
 このデータベースには４６５枚の図があります、枚ごとで点数をつけてください。
-*Chen様とObata様は１３３８枚目から点数をつけてください。*
-点数に関しては、Excelから一番適切な項目を選んでください。
-一列目はEmotionであり、Positive・Neutral・Negative三つの選択肢が含まれている。
-二列目はBasic Emotionsであり、Fear・Disgust・Anger・Sadness・Surprise・Others(Negative)六つの選択肢が含まれて、Happy・Others(Positive)二つの選択肢が含まれて、Neutral(Neutral)一つの選択肢が含まれている。
-もしも二列目に適切な選択肢がなければ(Others)、三列目に最も近い感情を選択してください。
+Chen様とObata様は１３３８枚目から点数をつけてください。
+点数に関しては、Excelから一番適切な項目を選択してください。
+一列目は「Emotion」であり、「Positive」・「Negative」・「Neutral」三つの選択肢が含まれています。
+二列目は「Basic Emotions」であり、一列目の補足として設置しています。一列目で「Positive」を選択した場合、二列目で「Happy」と「Others」から更に選択してください。一列目で「Negative」を選んだ場合、二列目で次の六つの選択肢「Fear」・「Disgust」・「Anger」・「Sadness」・「Surprise」・「Others」から選択してください。一列目で「Neutral」を選択した場合、二列目でもう一度「Neutral」を選択してください。
+二列目に適切な選択肢がない場合、もしくは「Others」を選択した場合、三列目で最も近い感情を選択してください。
 
 ## 中文
-该数据库中有465张图片，请对每张图片进行评分。 
-*Chen和Obata应该从第1338张开始打分。*
-关于分数，请从Excel的下拉列表中选择最合适的一项。
-第一列是“Emotion”，其中包含三个选项：“Positive”，“Neutral”和“Negative”。 第二列是“Basic Emotions”，如果您在第一列中选择的选项是“Negative”，那么请从以下六个选项：“Fear”，“Disgust”，“Anger”，“Sadness”，“Surprise”，“Others”中进行选择；如果您在第一列的选项是“Positive”，那么请从以下两个选项：“Happy”，“Others”中进行选择；如果您在第一列的选项是“Neutral”，那么请直接选择“Neutral”。
-如果您在第二列中没有找到最为合适的选项，也即所选为“Others”，那么请在第三列中选择最接近您的情绪的选项。
+该图片数据库中共有465张图片，请为图片进行打分。
+对于Chen和Obata，您可以从第1338张图片开始进行打分。
+关于打分，请从excel表中选取您觉得最为合适的选项。
+第一列是“Emotion”，包含“Positive”，“Negative”和“Neutral”三个选项；
+第二列是“Basic Emotions”，作为第一列的补充存在。如果您在第一列中选择的选项是 “Positive”，那么请从 “Happy”和“Others”中进行选择；如果您在第一列中的选项是“Negative”，那么请从以下六个选项：“Fear”，“Disgust”，“Anger”，“Sadness”，“Surprise”，“Others”中进行选择；如果您在第一列的选项是“Neutral”，那么请直接选择“Neutral”。
+如果您在第二列中没有找到最为合适的选项，或选择的选项为“Others”，那么请在第三列中选择最接近您的情绪的选项。
